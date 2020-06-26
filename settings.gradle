@@ -1,2 +1,3 @@
 rootProject.name='ndk-sample-feature'
 include ':app'
+include ':native-media'
